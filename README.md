@@ -28,4 +28,3 @@ Finally push your changes to master branch
 git push origin master
 
 ![helloworldmeme](https://github.com/user-attachments/assets/5fc05834-7916-47ed-9060-fddb3bada05f)
-![hellworldgiga](https://github.com/user-attachments/assets/38709a47-68c9-4ead-a07f-30ffd77d37db)
