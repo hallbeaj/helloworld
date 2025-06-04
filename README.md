@@ -26,3 +26,8 @@ git rebase upstream/master
 
 Finally push your changes to master branch
 git push origin master
+
+![helloworld](https://github.com/user-attachments/assets/5435db62-2819-4f10-9495-26880525ac23)
+![helloworldassembly](https://github.com/user-attachments/assets/b5479ebf-95fe-4fc7-8ffc-7c6c2bab58c4)
+![helloworldmeme](https://github.com/user-attachments/assets/5fc05834-7916-47ed-9060-fddb3bada05f)
+![hellworldgiga](https://github.com/user-attachments/assets/38709a47-68c9-4ead-a07f-30ffd77d37db)
